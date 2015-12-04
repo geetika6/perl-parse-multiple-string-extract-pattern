@@ -1,0 +1,2084 @@
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/wptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/wptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/wptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/wptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/wptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[26] 
+to_instance: mti_testcontrol/test_pad_sel_meta_reg
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[15] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[7] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[14] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[6] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[13] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[5] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[12] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[4] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[11] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[3] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[10] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[9] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[8] 
+to_instance: mti_testcontrol/number_seq_runs_meta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[25] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[9] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[24] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[8] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[23] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[7] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[22] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[6] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[21] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[20] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[19] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[18] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[17] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[16] 
+to_instance: mti_testcontrol/test_symbol_from_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[0] 
+to_instance: mti_testcontrol/testing_enable_meta_reg
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[3] 
+to_instance: mti_testcontrol/test_mode_sel_meta_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[2] 
+to_instance: mti_testcontrol/test_mode_sel_meta_reg[0] 
+---------------------------------------------------
+from_instance: l1lbdata/rptr_gray_reg[3] 
+to_instance: l1lbdata/rptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l1lbdata/rptr_gray_reg[2] 
+to_instance: l1lbdata/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l1lbdata/rptr_gray_reg[1] 
+to_instance: l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l1lbdata/rptr_gray_reg[0] 
+to_instance: l1lbdata/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l2lbdata/rptr_gray_reg[3] 
+to_instance: l2lbdata/rptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l2lbdata/rptr_gray_reg[2] 
+to_instance: l2lbdata/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l2lbdata/rptr_gray_reg[1] 
+to_instance: l2lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l2lbdata/rptr_gray_reg[0] 
+to_instance: l2lbdata/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l3lbdata/rptr_gray_reg[3] 
+to_instance: l3lbdata/rptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l3lbdata/rptr_gray_reg[2] 
+to_instance: l3lbdata/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l3lbdata/rptr_gray_reg[1] 
+to_instance: l3lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l3lbdata/rptr_gray_reg[0] 
+to_instance: l3lbdata/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l4lbdata/rptr_gray_reg[3] 
+to_instance: l4lbdata/rptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l4lbdata/rptr_gray_reg[2] 
+to_instance: l4lbdata/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l4lbdata/rptr_gray_reg[1] 
+to_instance: l4lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l4lbdata/rptr_gray_reg[0] 
+to_instance: l4lbdata/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l5lbdata/rptr_gray_reg[3] 
+to_instance: l5lbdata/rptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l5lbdata/rptr_gray_reg[2] 
+to_instance: l5lbdata/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l5lbdata/rptr_gray_reg[1] 
+to_instance: l5lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l5lbdata/rptr_gray_reg[0] 
+to_instance: l5lbdata/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/rsvdreg1_reg_sync_reg[1] 
+to_instance: l5loopback/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l1_txctr_txmode_reg_reg
+to_instance: l1modecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l2_txctr_txmode_reg_reg
+to_instance: l2modecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l3_txctr_txmode_reg_reg
+to_instance: l3modecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l4_txctr_txmode_reg_reg
+to_instance: l4modecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l5_txctr_txmode_reg_reg
+to_instance: l5modecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/glbl_ctr_mtien_reg_reg
+to_instance: mtienmti/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/glbl_ctr_msrst_reg_reg
+to_instance: syncrstmti/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l1_txctr_txen_reg_reg
+to_instance: l1txenbcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l2_txctr_txen_reg_reg
+to_instance: l2txenbcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l3_txctr_txen_reg_reg
+to_instance: l3txenbcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l4_txctr_txen_reg_reg
+to_instance: l4txenbcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l5_txctr_txen_reg_reg
+to_instance: l5txenbcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l1_txctr_count_idles_reg_reg
+to_instance: l1countidles/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l2_txctr_count_idles_reg_reg
+to_instance: l2countidles/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l3_txctr_count_idles_reg_reg
+to_instance: l3countidles/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l4_txctr_count_idles_reg_reg
+to_instance: l4countidles/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l5_txctr_count_idles_reg_reg
+to_instance: l5countidles/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: adctrgcdc/holdsrcin_reg
+to_instance: adctrgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l1trgcdc/holdsrcin_reg
+to_instance: l1trgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l2trgcdc/holdsrcin_reg
+to_instance: l2trgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l3trgcdc/holdsrcin_reg
+to_instance: l3trgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l4trgcdc/holdsrcin_reg
+to_instance: l4trgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l5trgcdc/holdsrcin_reg
+to_instance: l5trgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: u_mti_regs/l1_txctr_txpause_reg_reg
+to_instance: l1pausecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l2_txctr_txpause_reg_reg
+to_instance: l2pausecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l3_txctr_txpause_reg_reg
+to_instance: l3pausecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l4_txctr_txpause_reg_reg
+to_instance: l4pausecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/l5_txctr_txpause_reg_reg
+to_instance: l5pausecdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l1txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l2txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l3txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l4txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l5txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw0/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[1] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[2] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/ps_reg[3] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/txen_reg
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l1txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l2txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l3txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l4txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: l5txenbcdc/rxdatasync_reg[0] 
+to_instance: u_mti_sw_data_buf/fifo_sw1/meta_stream_idle_inserted_reg
+---------------------------------------------------
+from_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[0]/cdc/regv2sync_reg
+to_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[0]/cdc/regv1cmeta_reg
+---------------------------------------------------
+from_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[1]/cdc/regv2sync_reg
+to_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[1]/cdc/regv1cmeta_reg
+---------------------------------------------------
+from_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[2]/cdc/regv2sync_reg
+to_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[2]/cdc/regv1cmeta_reg
+---------------------------------------------------
+from_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[3]/cdc/regv2sync_reg
+to_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[3]/cdc/regv1cmeta_reg
+---------------------------------------------------
+from_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[4]/cdc/regv2sync_reg
+to_instance: ips_to_aurora_cdc/sync_flop_gen/sync_flop_list[4]/cdc/regv1cmeta_reg
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_ahblane0/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane0/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_soflane1/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l1lbdata/wptr_gray_reg[3] 
+to_instance: l1lbdata/wptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l1lbdata/wptr_gray_reg[2] 
+to_instance: l1lbdata/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l1lbdata/wptr_gray_reg[1] 
+to_instance: l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l1lbdata/wptr_gray_reg[0] 
+to_instance: l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l2lbdata/wptr_gray_reg[3] 
+to_instance: l2lbdata/wptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l2lbdata/wptr_gray_reg[2] 
+to_instance: l2lbdata/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l2lbdata/wptr_gray_reg[1] 
+to_instance: l2lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l2lbdata/wptr_gray_reg[0] 
+to_instance: l2lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l3lbdata/wptr_gray_reg[3] 
+to_instance: l3lbdata/wptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l3lbdata/wptr_gray_reg[2] 
+to_instance: l3lbdata/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l3lbdata/wptr_gray_reg[1] 
+to_instance: l3lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l3lbdata/wptr_gray_reg[0] 
+to_instance: l3lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l4lbdata/wptr_gray_reg[3] 
+to_instance: l4lbdata/wptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l4lbdata/wptr_gray_reg[2] 
+to_instance: l4lbdata/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l4lbdata/wptr_gray_reg[1] 
+to_instance: l4lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l4lbdata/wptr_gray_reg[0] 
+to_instance: l4lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: l5lbdata/wptr_gray_reg[3] 
+to_instance: l5lbdata/wptr_gray_d1_reg[3] 
+---------------------------------------------------
+from_instance: l5lbdata/wptr_gray_reg[2] 
+to_instance: l5lbdata/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: l5lbdata/wptr_gray_reg[1] 
+to_instance: l5lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: l5lbdata/wptr_gray_reg[0] 
+to_instance: l5lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: syncrstmti/rxdatasync_reg[0] 
+to_instance: syncrstreturn/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/txen_reg
+to_instance: l1ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l1txenbcdc/rxdatasync_reg[0] 
+to_instance: l1ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/txen_reg
+to_instance: l2ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l2txenbcdc/rxdatasync_reg[0] 
+to_instance: l2ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/txen_reg
+to_instance: l3ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l3txenbcdc/rxdatasync_reg[0] 
+to_instance: l3ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/txen_reg
+to_instance: l4ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l4txenbcdc/rxdatasync_reg[0] 
+to_instance: l4ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/txen_reg
+to_instance: l5ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l5txenbcdc/rxdatasync_reg[0] 
+to_instance: l5ftxencdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/txen_reg
+to_instance: l1s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l1txenbcdc/rxdatasync_reg[0] 
+to_instance: l1s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/txen_reg
+to_instance: l2s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l2txenbcdc/rxdatasync_reg[0] 
+to_instance: l2s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/txen_reg
+to_instance: l3s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l3txenbcdc/rxdatasync_reg[0] 
+to_instance: l3s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/txen_reg
+to_instance: l4s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l4txenbcdc/rxdatasync_reg[0] 
+to_instance: l4s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/txen_reg
+to_instance: l5s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l5txenbcdc/rxdatasync_reg[0] 
+to_instance: l5s0selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/txen_reg
+to_instance: l1s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l1txenbcdc/rxdatasync_reg[0] 
+to_instance: l1s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/txen_reg
+to_instance: l2s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l2txenbcdc/rxdatasync_reg[0] 
+to_instance: l2s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/txen_reg
+to_instance: l3s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l3txenbcdc/rxdatasync_reg[0] 
+to_instance: l3s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/txen_reg
+to_instance: l4s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l4txenbcdc/rxdatasync_reg[0] 
+to_instance: l4s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/txen_reg
+to_instance: l5s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l5txenbcdc/rxdatasync_reg[0] 
+to_instance: l5s1selcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: ladcselcdc/rptr_gray_reg[1] 
+to_instance: ladcselcdc/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: ladcselcdc/rptr_gray_reg[0] 
+to_instance: ladcselcdc/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[0] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[1] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[2] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[3] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[4] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[5] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[6] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_s1_reg[7] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[0] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[1] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[2] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[3] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[4] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[5] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[6] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane1/packmaker/count_packets_reg[7] 
+to_instance: l1statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[0] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[1] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[2] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[3] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[4] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[5] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[6] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_s1_reg[7] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[0] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[1] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[2] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[3] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[4] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[5] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[6] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane2/packmaker/count_packets_reg[7] 
+to_instance: l2statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[0] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[1] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[2] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[3] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[4] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[5] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[6] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_s1_reg[7] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[0] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[1] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[2] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[3] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[4] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[5] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[6] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane3/packmaker/count_packets_reg[7] 
+to_instance: l3statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[0] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[1] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[2] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[3] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[4] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[5] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[6] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_s1_reg[7] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[0] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[1] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[2] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[3] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[4] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[5] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[6] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane4/packmaker/count_packets_reg[7] 
+to_instance: l4statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[0] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[1] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[2] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[3] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[4] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[5] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[6] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_s1_reg[7] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[0] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[1] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[2] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[3] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[4] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[5] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[6] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_aurora_packet_generator/auroratx_lane5/packmaker/count_packets_reg[7] 
+to_instance: l5statcdc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: l1statupcdc/holdsrcin_reg
+to_instance: l1statupcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l2statupcdc/holdsrcin_reg
+to_instance: l2statupcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l3statupcdc/holdsrcin_reg
+to_instance: l3statupcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l4statupcdc/holdsrcin_reg
+to_instance: l4statupcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: l5statupcdc/holdsrcin_reg
+to_instance: l5statupcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: adctrgcdc/rxdatasync_reg
+to_instance: adctrgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: adcrfstrgcdc/holdsrcin_reg
+to_instance: adcrfstrgcdc/rxdatameta_reg
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[31] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[30] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[29] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[28] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[27] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[26] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[25] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[24] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[23] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[22] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[21] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[20] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[19] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[18] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[17] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[16] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[15] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[14] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[13] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[12] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[11] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[10] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[9] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[8] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[7] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[6] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg6_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[31] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[30] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[29] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[28] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[27] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[26] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[25] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[24] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[23] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[22] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[21] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[20] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[19] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[18] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[17] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[16] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[15] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[14] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[13] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[12] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[11] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[10] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[9] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[8] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[7] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[6] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg5_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[31] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[30] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[29] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[28] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[27] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[26] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[25] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[24] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[23] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[22] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[21] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[20] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[19] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[18] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[17] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[16] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[15] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[14] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[13] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[12] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[11] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[10] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[9] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[8] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[7] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[6] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg4_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[31] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[30] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[29] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[28] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[27] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[26] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[25] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[24] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[23] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[22] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[21] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[20] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[19] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[18] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[17] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[16] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[15] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[14] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[13] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[12] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[11] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[10] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[9] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[8] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[7] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[6] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg3_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[31] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[30] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[29] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[28] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[27] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[26] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[25] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[24] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[23] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[22] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[21] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[20] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[19] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[18] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[17] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[16] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[15] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[14] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[13] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[12] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[11] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[10] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[9] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[8] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[7] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[6] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg2_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_testcontrol/testing_done_to_ips_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[5] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane5/rx_not_complete_sync_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane5/testing_valid_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_testcontrol/testing_done_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[4] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/rx_not_complete_sync_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane4/testing_valid_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_testcontrol/testing_done_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[3] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane3/rx_not_complete_sync_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane3/testing_valid_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_testcontrol/testing_done_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[2] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane2/rx_not_complete_sync_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane2/testing_valid_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_testcontrol/testing_done_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane1/rx_not_complete_sync_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/pcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[0] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[1] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[2] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[3] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[4] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[5] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[6] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[7] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[8] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[9] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[10] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[11] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[12] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[13] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[14] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/fcount_reg[15] 
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_rx_tester/testlane1/testing_valid_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: mti_testcontrol/testing_done_reg
+to_instance: u_mti_regs/rsvdreg1_reg_meta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/rptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/rptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane2/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/rptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane3/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/rptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane4/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/rptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/rptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/rptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/rptr_gray_reg[0] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane5/rptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/glbl_ctr_mtien_reg_reg
+to_instance: mtienahb/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: u_mti_regs/glbl_ctr_msrst_reg_reg
+to_instance: syncrstadc/rxdatameta_reg[0] 
+---------------------------------------------------
+from_instance: ladcselcdc/wptr_gray_reg[1] 
+to_instance: ladcselcdc/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: ladcselcdc/wptr_gray_reg[0] 
+to_instance: ladcselcdc/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: adcrfstrgcdc/rxdatasync_reg
+to_instance: adcrfstrgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: l1trgcdc/rxdatasync_reg
+to_instance: l1trgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: l2trgcdc/rxdatasync_reg
+to_instance: l2trgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: l3trgcdc/rxdatasync_reg
+to_instance: l3trgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: l4trgcdc/rxdatasync_reg
+to_instance: l4trgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: l5trgcdc/rxdatasync_reg
+to_instance: l5trgcdc/cleanmeta_reg
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane1/l1lbdata/rptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane1/l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane1/l1lbdata/rptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane1/l1lbdata/rptr_gray_d1_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane1/sample_now_reg[0]
+to_instance: mti_loopback_receiver/rxlane1/rx_not_complete_sync_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane1/l1lbdata/wptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane1/l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane1/l1lbdata/wptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane1/l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane2/l1lbdata/rptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane2/l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane2/l1lbdata/rptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane2/l1lbdata/rptr_gray_d1_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane2/sample_now_reg[0]
+to_instance: mti_loopback_receiver/rxlane2/rx_not_complete_sync_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane2/l1lbdata/wptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane2/l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane2/l1lbdata/wptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane2/l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane3/l1lbdata/rptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane3/l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane3/l1lbdata/rptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane3/l1lbdata/rptr_gray_d1_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane3/sample_now_reg[0]
+to_instance: mti_loopback_receiver/rxlane3/rx_not_complete_sync_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane3/l1lbdata/wptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane3/l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane3/l1lbdata/wptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane3/l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_d1_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/sample_now_reg[0]
+to_instance: mti_loopback_receiver/rxlane4/rx_not_complete_sync_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/rptr_gray_d1_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/sample_now_reg[0]
+to_instance: mti_loopback_receiver/rxlane4/rx_not_complete_sync_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane4/l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane5/l1lbdata/rptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane5/l1lbdata/rptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane5/l1lbdata/rptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane5/l1lbdata/rptr_gray_d1_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane5/sample_now_reg[0]
+to_instance: mti_loopback_receiver/rxlane5/rx_not_complete_sync_reg[0]
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane5/l1lbdata/wptr_gray_reg[1] 
+to_instance: mti_loopback_receiver/rxlane5/l1lbdata/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: mti_loopback_receiver/rxlane5/l1lbdata/wptr_gray_reg[0] 
+to_instance: mti_loopback_receiver/rxlane5/l1lbdata/wptr_gray_d1_reg[0] 
+---------------------------------------------------
+
