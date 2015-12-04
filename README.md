@@ -45,7 +45,11 @@ A script needs to be written that parses the sync list file with above format, e
  # Parse line by line 0,1,2 and extract the 2 element array contain 1 source and 1 destination flop and pass it
  # to a subroutine to print in the desired fashion
  #writing the file in append mode to add text below for each flop.
- 
+
+ Commands to run:
+
+perl sub_parsefile_and_find_pattern.pl sync.lst _reg
+
  2]Read ethernet packet and reverse byte by byte like
  data:
  55555555555555d5
@@ -58,4 +62,7 @@ A script needs to be written that parses the sync list file with above format, e
  Approach :
  Divide into 2character elements inside an array, reverse and join removing spaces
  
+ 3]
+ Remove all numbers after meeting first no:
+ perl omit.pl omit.txt
 
