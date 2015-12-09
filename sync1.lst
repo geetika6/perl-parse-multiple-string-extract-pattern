@@ -1,0 +1,8 @@
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_reg[2] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_d1_reg[2] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_reg[1] 
+to_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_d1_reg[1] 
+---------------------------------------------------
+from_instance: u_mti_loc_to_aurora_data_cdc/cdc_adclane1/wptr_gray_reg[0] 

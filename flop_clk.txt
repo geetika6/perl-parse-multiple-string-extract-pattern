@@ -1,0 +1,2 @@
+testbench.top.u_mti_loc_to_aurora_data_cdc.cdc_adclane1.rd_clk
+testbench.top.u_mti_loc_to_aurora_data_cdc.cdc_adclane1.rd_clk1
