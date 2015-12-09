@@ -1,4 +1,7 @@
 Perl Problems:
+
+#
+
 1]Here is the force-sync problem statement.
 
 Sync list format that we get from IP:
@@ -66,3 +69,12 @@ perl sub_parsefile_and_find_pattern.pl sync.lst _reg
  Remove all numbers after meeting first no:
  perl omit.pl omit.txt
 
+#
+4] To open multiple files and read and process them to extract strings from them and then use these strings to dump a file in a particular fashion.
+perl file.pl sync1.lst flopclk.txt _reg clk
+This opens 2 files and rescpectively searches for the string _reg and clk in them 
+#
+5]
+A new version of this perl script to include a single sub routine to do these multiple file reading
+Using exception handling in perl
+And then dump into a file syncflop.txt in a particular fashion
